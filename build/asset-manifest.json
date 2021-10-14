@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/eywa-mint-test/static/css/main.1d31bf26.chunk.css",
+    "main.js": "/eywa-mint-test/static/js/main.31a57c93.chunk.js",
+    "main.js.map": "/eywa-mint-test/static/js/main.31a57c93.chunk.js.map",
+    "runtime-main.js": "/eywa-mint-test/static/js/runtime-main.aaf48400.js",
+    "runtime-main.js.map": "/eywa-mint-test/static/js/runtime-main.aaf48400.js.map",
+    "static/css/2.acf9cc11.chunk.css": "/eywa-mint-test/static/css/2.acf9cc11.chunk.css",
+    "static/js/2.c21807f1.chunk.js": "/eywa-mint-test/static/js/2.c21807f1.chunk.js",
+    "static/js/2.c21807f1.chunk.js.map": "/eywa-mint-test/static/js/2.c21807f1.chunk.js.map",
+    "static/js/3.24dc74d1.chunk.js": "/eywa-mint-test/static/js/3.24dc74d1.chunk.js",
+    "static/js/3.24dc74d1.chunk.js.map": "/eywa-mint-test/static/js/3.24dc74d1.chunk.js.map",
+    "index.html": "/eywa-mint-test/index.html",
+    "static/css/2.acf9cc11.chunk.css.map": "/eywa-mint-test/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/main.1d31bf26.chunk.css.map": "/eywa-mint-test/static/css/main.1d31bf26.chunk.css.map",
+    "static/js/2.c21807f1.chunk.js.LICENSE.txt": "/eywa-mint-test/static/js/2.c21807f1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/eywa-mint-test/static/media/Rubik-Regular.37a4d906.ttf",
+    "static/media/bg.a050a836.svg": "/eywa-mint-test/static/media/bg.a050a836.svg",
+    "static/media/close.bd3ff085.svg": "/eywa-mint-test/static/media/close.bd3ff085.svg",
+    "static/media/metamask.bf5a7a37.svg": "/eywa-mint-test/static/media/metamask.bf5a7a37.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf48400.js",
+    "static/css/2.acf9cc11.chunk.css",
+    "static/js/2.c21807f1.chunk.js",
+    "static/css/main.1d31bf26.chunk.css",
+    "static/js/main.31a57c93.chunk.js"
+  ]
+}
